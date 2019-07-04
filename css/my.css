@@ -1,0 +1,285 @@
+.body{
+    font-size: 12px;
+    margin:0px auto;
+    width: 675px;
+
+    font-family: 'M PLUS 1p', sans-serif;
+}
+/* .topimg{
+    margin:0px 0px;
+    width: 675px;
+    height:  120px;
+    background-image: url("../img/topimg.png");
+    background-size: contain;
+    } */
+
+    .topbox{
+    /* margin:0px 0px; */
+    width: 675px;
+    height:  200px;
+    background-image: url("../img/topimg.png");
+    background-size: contain;
+        }
+   img.toprogo{
+    /* margin:0px 0px; */
+    
+    width: 650px;
+    height:  200px;
+
+        }
+
+label{
+    font-size: 14px;
+    margin:0px auto;
+    font-family: 'M PLUS 1p', sans-serif;
+    color: #a8daa8;
+}
+
+.MG0{
+margin-bottom:0px ;
+}
+
+.form-MP{
+margin-bottom:12px ;
+}
+.box_content{
+    display:flex; 
+    margin:10px 0px;
+    padding:0;
+    width: 650px;
+    text-align:left;
+    border-radius: 10px; /*角丸*/
+    background-color: #d8ffb2; /*背景色*/
+
+}
+.box_ONcontent{
+    display:flex; 
+    margin:10px 0px;
+    padding:0;
+    width: 650px;
+    text-align:left;
+    border-radius: 10px; /*角丸*/
+    background-color: #d8ffb2; /*背景色*/
+
+}
+
+.box_OFFcontent{
+    display:flex; 
+    margin:10px 0px;
+    padding:0;
+    width: 650px;
+    text-align:left;
+    border-radius: 10px; /*角丸*/
+    background-color: #9ff889; /*背景色*/
+
+}
+.box_content_L{
+    margin:5px;
+    padding:0;
+    width: 100px;
+    text-align:left;
+
+}
+.box_content_R{
+    margin:5px;
+    padding:0px;
+    width: 530px;
+    text-align:left;
+}
+.box_R_title{
+    font-size: 20px;
+    margin:5px 10px 0px 5px;
+    padding:0px;
+    width: 515px;
+    text-align:left;
+}
+
+.box_R_comment{
+    font-size: 14px;
+    margin:0px 10px 10px 5px;
+    padding:0px;
+    width: 515px;
+    text-align:left;
+}
+.box_R_category{
+    font-size: 14px;
+    margin:0px 10px 0px 5px;
+    padding:0px;
+    width: 515px;
+    text-align:left;
+}
+
+
+
+.box_R_indate{
+    font-size: 12px;
+    margin:0px 10px 0px 5px;
+    padding:0px;
+    width: 530px;
+    text-align:left;
+    color: #006400;
+}
+
+
+
+P{
+padding:0;
+margin:0px;
+}
+.coin{
+    padding:0px;
+    padding:0;
+    width: 100px;
+
+
+}
+.happy_coin{
+font-size: 95px;
+width: 540px;
+font-family: 'Barlow', sans-serif;
+text-align: right;
+color: #006400;
+margin:93px 40px 0px 10px;
+    }
+
+.happycoin_total {
+    background-image: url("../img/happycoin_total.png");
+    height: 250px;
+    width: 650px;
+    background-size: contain;
+
+
+}
+.brandMP{
+font-family: 'Barlow', sans-serif;
+color: #006400;
+margin:10px 20px 10px 0px;
+font-size: 36px;
+    }
+
+    .navbarMP{
+font-family: 'Barlow', sans-serif;
+color: #006400;
+margin:10px 20px 10px 0px;
+font-size: 36px;
+    }
+
+.happycoin_info{
+font-size: 20px;
+text-align: center;
+color: #006400;
+margin:5px 0px 5px 0px;
+    }
+
+    .happycoinbox {
+    background-image: url("../img/happycoinbox.png");
+    height: 370px;
+    width: 650px;
+    background-size: contain;
+
+
+}
+
+    .happycoinbox00 {
+    background-image: url("../img/happycoinbox00.png");
+    height: 370px;
+    width: 650px;
+    background-size: contain;
+
+
+}
+/* コイン洗濯 */
+.coin_area{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+    margin: 0px 0px 0px 0px;
+    padding:0;
+    width: 650px;
+    
+}
+.coin_area{
+    margin: 0px 0px 0px 0px;
+    padding:0;
+    
+}
+.coin_areaA{
+	display:flex;
+	align-items: center;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+    width: 100px;
+    
+}
+.coin_areamini{
+
+    align-items: center;
+    margin:0px 10px 0px 0px;
+    padding:0px 0px 0px 0px;
+    width: 100px;
+    
+}
+
+.coin_1HAPPY{
+    background-image: url("../img/happy1coin.png");
+	align-items:center;
+    margin: 0px 10px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_5HAPPY{
+    background-image: url("../img/happy5coin.png");
+	align-items:center;
+    margin: 0px 10px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_10HAPPY{
+    background-image: url("../img/happy10coin.png");
+	align-items:center;
+    margin: 0px 10px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_50HAPPY{
+    background-image: url("../img/happy50coin.png");
+	align-items:center;
+    margin: 0px 10px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_100HAPPY{
+    background-image: url("../img/happy100coin.png");
+	align-items:center;
+    margin: 0px 10px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_500HAPPY{
+    background-image: url("../img/happy500coin.png");
+	align-items:center;
+    margin: 0px 0px 0px 0px;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    
+}
+.coin_areabox{
+    height: 120px;
+    padding:0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+    }
+    .coinAA{
+    padding:0px 0px 0px 0px;
+    margin: 0px 0px 0px 40px;
+    }
